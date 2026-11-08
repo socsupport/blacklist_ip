@@ -1,1 +1,11 @@
+2001:df1:e8c0::106b #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+103.59.160.171 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+51.89.103.78 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+185.177.72.61 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+195.3.220.7 # Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+96.62.218.148 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+20.217.186.29 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+87.58.197.83 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+154.26.238.8 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
+20.46.43.126 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
 45.144.52.239 #blocking by vernandy
