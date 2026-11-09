@@ -1,4 +1,4 @@
-45.141.117.244 #Blocking by Alan - Nalicious 
+45.141.117.244 #Blocking by Alan - Malicious TOR 
 103.59.160.171 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
 51.89.103.78 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
 185.177.72.61 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
