@@ -11,3 +11,4 @@
 20.46.43.126 #Blocking by Noor Saputri - ioc on Window RCE (CVE-2026-119977)Exploited in the Wild
 45.144.52.239 #blocking by vernandy
 31.59.160.24 #blocking by Rey - malicious anomaly login
+23.191.200.110 #Blocking by Rey - Malicious TOR 
