@@ -12,3 +12,5 @@
 45.144.52.239 #blocking by vernandy
 31.59.160.24 #blocking by Rey - malicious anomaly login
 23.191.200.110 #Blocking by Rey - Malicious TOR 
+23.191.200.37 #Blocking by Rey - Malicious TOR
+23.191.200.102 #Blocking by Rey - Malicious TOR
