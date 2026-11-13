@@ -1,3 +1,4 @@
+23.191.200.56 #Blocking by Noor IP TOR
 196.74.113.55 #BLocking by Noor - WAF 
 169.150.211.212 #blocking by deka - sign-in attempts from anonymous proxy IP addresses such as Tor browser or anonymous VPN
 165.154.206.35 #Blocking by Alan - Malicious – Web Application Attack High Confidence 100% Abuse Confidence Score 
