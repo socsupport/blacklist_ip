@@ -1,3 +1,4 @@
+185.199.108.153 # #Blocking by Noor Saputri - url malicious gsocket.io from security advisor Threat Actors Weaponize GSocket for Stealthy Post-Compromise Access
 104.243.43.115 #Blocking by Noor Saputri - AhsayCBS Exploitation Deploys Webshells, Miner, and Custom Implant
 112.121.185.218 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
 156.240.109.26 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
