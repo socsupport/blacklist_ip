@@ -6,6 +6,7 @@
 87.143.146.197 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
 177.230.110.74 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
 41.210.141.172 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+172.100.2.99 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
 41.90.110.31 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
 153.67.31.34 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
 152.207.201.119 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
