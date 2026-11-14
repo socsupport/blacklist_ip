@@ -1,3 +1,12 @@
+112.121.185.218 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
+156.240.109.26 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
+49.158.237.136 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
+202.160.76.153 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
+202.160.76.154 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
+202.160.76.155 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
+202.160.76.156 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
+202.160.76.157 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
+202.160.76.174 #Blocking by Noor Saputri - BOSSAI AI-Powered Cyberattack Campaign Targeting Critical Infrastructure
 23.191.200.56 #Blocking by Noor IP TOR
 196.74.113.55 #BLocking by Noor - WAF 
 169.150.211.212 #blocking by deka - sign-in attempts from anonymous proxy IP addresses such as Tor browser or anonymous VPN
