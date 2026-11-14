@@ -1,3 +1,4 @@
+147.90.234.159 #Blocking by Noor IP TOR
 193.148.57.65 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
 116.110.43.60 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
 103.156.164.32 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
