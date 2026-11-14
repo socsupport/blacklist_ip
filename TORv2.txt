@@ -1,3 +1,15 @@
+193.148.57.65 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+116.110.43.60 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+103.156.164.32 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+103.230.155.30 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+87.143.146.197 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+177.230.110.74 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+41.210.141.172 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+41.90.110.31 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+153.67.31.34 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+152.207.201.119 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+93.152.220.30 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
+45.194.66.165 #Blocking by Noor Saputri - TA ‘plymouth’ Offers Remote Access Trojan (RAT) Service dubbed ‘Stadia’; Boasts Advanced Capabilities
 199.19.77.84 #Blocking by Noor Saputri - AI-Powered Threat Actors Exploit Exposed GitHub Secrets
 65.87.223.26 #Blocking by Noor Saputri - AI-Powered Threat Actors Exploit Exposed GitHub Secrets
 157.22.126.128 #Blocking by Noor Saputri - AI-Powered Threat Actors Exploit Exposed GitHub Secrets
