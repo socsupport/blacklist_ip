@@ -66,4 +66,5 @@
 188.37.75.97 #blocking by Rey - malicious anomaly login
 23.191.200.110 #Blocking by Rey - Malicious TOR 
 23.191.200.37 #Blocking by Rey - Malicious TOR
+137.220.120.168 #Blocking by Rey - Malicious TOR
 23.191.200.102 #Blocking by Rey - Malicious TOR
