@@ -1,3 +1,16 @@
+89.169.13.207  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+2.27.211.8  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+31.76.5.82  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+31.76.68.61  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+193.143.1.142  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+45.86.230.112  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+91.107.247.163  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+81.177.215.15  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+194.87.31.69  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+91.245.35.22  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+176.120.22.127  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+78.130.46.120  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
+193.228.128.2  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
 185.136.15.2 #blocking by Vernandy - A malicious IP address was detected attempting to perform brute-force attacks against web application login pages. Reported by Guardpot.
 23.191.200.52 #Blocking by Alan - Malicious TOR 
 147.90.234.159 #Blocking by Noor IP TOR
