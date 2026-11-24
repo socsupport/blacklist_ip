@@ -1,3 +1,4 @@
+82.39.155.191 #Blocking by Alan Ip TOR
 91.92.47.9 #Blocking by Noor IP WAF
 137.220.120.168 #Blocking by Noor IP TOR
 89.169.13.207  #Blocking by Noor Saputri - THE GENTLEMEN RANSOMWARE GROUP
