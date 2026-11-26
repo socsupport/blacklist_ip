@@ -75,3 +75,5 @@
 137.220.120.168 #Blocking by Rey - Malicious TOR
 23.191.200.102 #Blocking by Rey - Malicious TOR
 137.220.120.168 #Blocking by Andi - Malicious TOR
+185.250.243.176 #Blocking by Rey - Malicious IOC
+185.250.243.38 #Blocking by Rey - Malicious IOC
