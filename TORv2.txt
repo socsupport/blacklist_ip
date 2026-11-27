@@ -84,3 +84,4 @@
 137.220.120.168 #Blocking by Andi - Malicious TOR
 185.250.243.176 #Blocking by Rey - Malicious IOC
 185.250.243.38 #Blocking by Rey - Malicious IOC
+68.166.169.20 #Blocking by Andi - Malicious IOC From Trendmicro
