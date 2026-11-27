@@ -1,3 +1,8 @@
+152.89.29.79 #Blocked by Noor - ioc from Sentinel: Linux Backdoor Hides C2 in GitHub Poem
+104.152.186.146 #Blocked by Noor - ioc from Sentinel: Linux Backdoor Hides C2 in GitHub Poem
+202.61.246.49 #Blocked by Noor - ioc from Sentinel: Linux Backdoor Hides C2 in GitHub Poem
+159.223.42.40 #Blocked by Noor - ioc from Sentinel: Linux Backdoor Hides C2 in GitHub Poem
+45.10.26.95 #Blocked by Noor - ioc from Sentinel: Linux Backdoor Hides C2 in GitHub Poem
 185.250.243.38 #Blocking by NOor IP ioc
 185.250.243.176 #Blocking by NOor IP ioc
 38.45.72.90 #Blocking by Vernandy WAF XSS
