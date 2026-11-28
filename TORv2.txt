@@ -86,4 +86,18 @@
 137.220.120.168 #Blocking by Andi - Malicious TOR
 185.250.243.176 #Blocking by Rey - Malicious IOC
 185.250.243.38 #Blocking by Rey - Malicious IOC
+147.185.133.244 #Blocking by Rey - Malicious RDP
+151.243.11.36 #Blocking by Rey - Malicious RDP
+153.56.135.194 #Blocking by Rey - Malicious RDP
+172.105.24.173 #Blocking by Rey - Malicious RDP
+182.242.168.219 #Blocking by Rey - Malicious RDP
+193.32.209.237 #Blocking by Rey - Malicious RDP
+194.180.49.38 #Blocking by Rey - Malicious RDP
+204.10.160.160 #Blocking by Rey - Malicious RDP
+209.127.180.210 #Blocking by Rey - Malicious RDP
+31.3.216.211 #Blocking by Rey - Malicious RDP
+35.206.177.162 #Blocking by Rey - Malicious RDP
+62.210.114.99 #Blocking by Rey - Malicious RDP
+65.49.20.125 #Blocking by Rey - Malicious RDP
+79.124.40.178 #Blocking by Rey - Malicious RDP
 68.166.169.20 #Blocking by Andi - Malicious IOC From Trendmicro
