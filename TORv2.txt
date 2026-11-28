@@ -1,4 +1,5 @@
 23.191.200.65 #Blocking by Ver - IP TOR
+68.166.169.20 #Blocking by Deka IP Malicious
 152.89.29.79 #Blocked by Noor - ioc from Sentinel: Linux Backdoor Hides C2 in GitHub Poem
 104.152.186.146 #Blocked by Noor - ioc from Sentinel: Linux Backdoor Hides C2 in GitHub Poem
 202.61.246.49 #Blocked by Noor - ioc from Sentinel: Linux Backdoor Hides C2 in GitHub Poem
